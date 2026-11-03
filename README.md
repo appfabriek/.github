@@ -1,2 +1,2 @@
 # .github
-Appfabriek org-profiel en templates
+Appfabriek organisation profile: profile/README.md is shown on github.com/appfabriek.
